@@ -1,1 +1,2 @@
-# twitch-chatbot
+# Twitch ChatBot
+Educational purposes only!!!
